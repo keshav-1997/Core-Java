@@ -1,10 +1,8 @@
-package MathematicalFunction;
-
+package Mission23;
 import java.util.Scanner;
 
-public class Max4 
+public class MaxIn4Number 
 {
-	public static void main(String[] args) 
 	{
 		Scanner sc = new Scanner(System.in);
 		
